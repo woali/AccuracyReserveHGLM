@@ -1,4 +1,5 @@
-﻿##MUST HAVE INTERNET CONNECTION
+##!!MUST HAVE INTERNET CONNECTION
+##authors: Alicja Wolny-Dominiak, Tomasz Żądło
 
 # install.packages("hglm")
 # install.packages("statmod")
